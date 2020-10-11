@@ -10,8 +10,9 @@ CREATE TABLE customer
 );
 
 insert into customer
-values ('first', 'last', 'email'),
-       ('first1', 'last1', 'email1'),
-       ('first2', 'last2', 'email2'),
-       ('first3', 'last3', 'email3'),
-       ('first4', 'last4', 'email4');
+
+values (1, 'first', 'last', 'email'),
+       (2, 'first1', 'last1', 'email1'),
+       (3, 'first2', 'last2', 'email2'),
+       (4, 'first3', 'last3', 'email3'),
+       (5, 'first4', 'last4', 'email4');

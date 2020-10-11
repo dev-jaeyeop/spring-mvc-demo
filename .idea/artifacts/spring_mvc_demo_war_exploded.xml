@@ -46,6 +46,7 @@
           <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.5" />
           <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.19" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.9.6" />
+          <element id="library" level="application_server_libraries" name="Tomcat 9.0.38" />
         </element>
       </element>
     </root>
